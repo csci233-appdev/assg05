@@ -1,0 +1,22 @@
+{
+    "cSpell.words": [
+        "assg",
+        "autograded",
+        "autograder",
+        "autograding",
+        "cachedir",
+        "elif",
+        "pluggy",
+        "pytest",
+        "rootdir",
+        "sublist",
+        "subproblems",
+        "unpickle"
+    ],
+    "python.testing.pytestArgs": [
+        "test"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+
+}

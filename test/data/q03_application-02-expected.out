@@ -1,0 +1,12 @@
+Enter name of file to perform character analysis on: blurg.dat
+File not found, try again
+Enter name of file to perform character analysis on: test/data/text2.txt
+
+Analysis of file <test/data/text2.txt>
+  Number of characters:    1585
+  Number of words:         289
+  Number of lines:         11
+  Number uppercase chars:  21
+  Number lowercase chars:  1227
+  Number digits:           6
+  Number whitespace chars: 293

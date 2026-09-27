@@ -1,0 +1,7 @@
+Enter a message to encode as Morse code or "stop" to quit: sos
+Morse code: <...---...>
+
+Enter a message to encode as Morse code or "stop" to quit: hello cruel world?
+Morse code: <......-...-..--- -.-..-...-..-.. .-----.-..-..-....--..>
+
+Enter a message to encode as Morse code or "stop" to quit: stop

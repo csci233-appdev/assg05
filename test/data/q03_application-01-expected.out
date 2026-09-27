@@ -1,0 +1,12 @@
+Enter name of file to perform character analysis on: bogus.txt
+File not found, try again
+Enter name of file to perform character analysis on: test/data/text1.txt
+
+Analysis of file <test/data/text1.txt>
+  Number of characters:    8146
+  Number of words:         1337
+  Number of lines:         65
+  Number uppercase chars:  223
+  Number lowercase chars:  6382
+  Number digits:           5
+  Number whitespace chars: 1369
